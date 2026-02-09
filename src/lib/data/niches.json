@@ -1,0 +1,74 @@
+[
+    {
+        "id": "electronics",
+        "name": "Electronics",
+        "icon": "Laptop",
+        "description": "Latest gadgets, smartphones, laptops & accessories",
+        "image": "/images/niches/electronics.jpg",
+        "color": "#3b82f6",
+        "productCount": 124
+    },
+    {
+        "id": "fashion",
+        "name": "Fashion",
+        "icon": "Shirt",
+        "description": "Trendy clothing, footwear & accessories",
+        "image": "/images/niches/fashion.jpg",
+        "color": "#ec4899",
+        "productCount": 256
+    },
+    {
+        "id": "beauty",
+        "name": "Beauty & Personal Care",
+        "icon": "Sparkles",
+        "description": "Skincare, makeup & grooming essentials",
+        "image": "/images/niches/beauty.jpg",
+        "color": "#f472b6",
+        "productCount": 189
+    },
+    {
+        "id": "home",
+        "name": "Home & Kitchen",
+        "icon": "Home",
+        "description": "Furniture, appliances & home decor",
+        "image": "/images/niches/home.jpg",
+        "color": "#22c55e",
+        "productCount": 312
+    },
+    {
+        "id": "fitness",
+        "name": "Fitness & Sports",
+        "icon": "Dumbbell",
+        "description": "Workout gear, sports equipment & nutrition",
+        "image": "/images/niches/fitness.jpg",
+        "color": "#ef4444",
+        "productCount": 87
+    },
+    {
+        "id": "books",
+        "name": "Books & Education",
+        "icon": "BookOpen",
+        "description": "Fiction, non-fiction & learning resources",
+        "image": "/images/niches/books.jpg",
+        "color": "#8b5cf6",
+        "productCount": 543
+    },
+    {
+        "id": "gadgets",
+        "name": "Gadgets & Accessories",
+        "icon": "Smartphone",
+        "description": "Smart watches, earbuds & tech accessories",
+        "image": "/images/niches/gadgets.jpg",
+        "color": "#06b6d4",
+        "productCount": 156
+    },
+    {
+        "id": "gaming",
+        "name": "Gaming",
+        "icon": "Gamepad2",
+        "description": "Gaming consoles, PCs & gaming accessories",
+        "image": "/images/niches/gaming.jpg",
+        "color": "#a855f7",
+        "productCount": 98
+    }
+]

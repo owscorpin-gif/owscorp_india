@@ -1,0 +1,100 @@
+[
+    {
+        "id": "1",
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "hashed_password_here",
+        "phone": "+91 98765 43210",
+        "avatar": "/images/avatars/john.jpg",
+        "role": "user",
+        "isBlocked": false,
+        "createdAt": "2024-01-15",
+        "lastLogin": "2024-02-05",
+        "wishlist": [
+            "1",
+            "5",
+            "7"
+        ],
+        "clickHistory": [
+            {
+                "productId": "1",
+                "timestamp": "2024-02-04T10:30:00Z"
+            },
+            {
+                "productId": "3",
+                "timestamp": "2024-02-03T15:45:00Z"
+            },
+            {
+                "productId": "7",
+                "timestamp": "2024-02-02T09:20:00Z"
+            }
+        ],
+        "searchHistory": [
+            "macbook",
+            "headphones",
+            "gaming"
+        ],
+        "analytics": {
+            "totalProductsViewed": 45,
+            "totalClicks": 12,
+            "favoriteCategory": "Electronics"
+        }
+    },
+    {
+        "id": "2",
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "password": "hashed_password_here",
+        "phone": "+91 87654 32109",
+        "avatar": "/images/avatars/jane.jpg",
+        "role": "user",
+        "isBlocked": false,
+        "createdAt": "2024-01-20",
+        "lastLogin": "2024-02-04",
+        "wishlist": [
+            "2",
+            "5",
+            "8"
+        ],
+        "clickHistory": [
+            {
+                "productId": "5",
+                "timestamp": "2024-02-04T14:20:00Z"
+            },
+            {
+                "productId": "8",
+                "timestamp": "2024-02-03T11:30:00Z"
+            }
+        ],
+        "searchHistory": [
+            "beauty",
+            "books",
+            "fashion"
+        ],
+        "analytics": {
+            "totalProductsViewed": 32,
+            "totalClicks": 8,
+            "favoriteCategory": "Beauty & Personal Care"
+        }
+    },
+    {
+        "id": "admin-1",
+        "name": "Admin User",
+        "email": "admin@owscorp.in",
+        "password": "admin123",
+        "role": "admin",
+        "isBlocked": false,
+        "createdAt": "2024-01-01"
+    },
+    {
+        "id": "3",
+        "name": "Demo User",
+        "email": "user@example.com",
+        "password": "password",
+        "role": "user",
+        "isBlocked": false,
+        "createdAt": "2024-02-01",
+        "wishlist": [],
+        "clickHistory": []
+    }
+]
